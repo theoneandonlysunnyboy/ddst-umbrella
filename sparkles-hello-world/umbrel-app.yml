@@ -1,11 +1,11 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
+id: ddst-umbrella-nzbget
+name: nzbGet
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nzbget.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 6789
 description: >-
   Add your app's description here.
 
