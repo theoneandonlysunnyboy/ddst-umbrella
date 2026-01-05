@@ -6,9 +6,9 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Etc/UTC
-      - NZBGET_USER=nzbget #optional
-      - NZBGET_PASS=tegbzn6789 #optional
+      - TZ=Europe/Berlin
+      - NZBGET_USER=sunny #optional
+      - NZBGET_PASS=lifeg0es0n #optional
     volumes:
       - /path/to/nzbget/data:/config
       - /path/to/downloads:/downloads #optional
